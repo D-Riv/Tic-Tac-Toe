@@ -4,6 +4,13 @@ body {
   align-items: center;
   flex-direction: column;
 }
+.score {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  /* align-items: center; */
+
+}
 .board {
   border: 1px solid #000000;
   display: grid;
